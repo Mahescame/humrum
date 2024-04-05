@@ -1,0 +1,66 @@
+
+body{
+    background-color: #D1DBBD;
+}
+
+.cabecalho{
+    height: 45px;
+    width: 300px;
+    background-color:#F2DDD5;
+    border-radius: 20px;
+    margin-left: 525px;
+   
+}
+.titulo{
+    padding-left: 113px;
+    padding-top: 7px;
+}
+
+
+.fonteecor{
+    font-family: monospace;
+    color: white;
+}
+
+
+.caixalog{
+    border-radius: 15px;
+    background-color: #F2DDD5;
+    height: 300px;
+    width: 250px;
+    color: white;
+    margin-left: 550px;
+    
+}
+.titulolog{
+    padding-left: 88px;
+    padding-top: 30px;
+    margin: 20px 0px 0px;
+}
+
+
+.email{
+    margin-bottom: 20px;
+    width: 100px;
+    padding: 10px;
+    border-radius: 4px;
+    padding-left: 38px;
+}
+.senha{
+    margin-bottom: 20px;
+    width: 100px;
+    padding: 10px;
+    border-radius: 4px;
+    padding-left: 38px;
+}
+
+
+.botao{
+    padding-left: 100px;
+}
+.corr{
+    background-color: #D1DBBD;
+    font-family: monospace;
+    color:#ffffff;
+    height: 30px;
+}
